@@ -1,7 +1,7 @@
 # Computacion Aplicada
 
 Eric Gaspar Veyna
-churroz5000@gmail.com
+
 
 ## Actividad 1
 - Programa 1
