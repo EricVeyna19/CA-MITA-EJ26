@@ -13,10 +13,10 @@ print('=' * 40)
 
 
 # Solicitar las resistencias del circuito
-r1= int(input('Ingresa R1 del circuito:\n'))
-r2= int(input('Ingresa R2 del circuito:\n'))
-r3= int(input('Ingresa R3 del circuito:\n'))
-r4= int(input('Ingresa R4 del circuito:\n'))
+r1= float(input('Ingresa R1 (ohms) del circuito:\n'))
+r2= float(input('Ingresa R2 (ohms) del circuito:\n'))
+r3= float(input('Ingresa R3 (ohms) del circuito:\n'))
+r4= float(input('Ingresa R4 (ohms) del circuito:\n'))
 
 rt = 1/( (1/r1) + (1/r2) + (1/r3) + (1/r4) )
 
