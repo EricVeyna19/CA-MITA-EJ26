@@ -29,5 +29,6 @@ Eric Gaspar Veyna
 - p019-calculo-tiempo.py
 - p020-numero-suerte.py
 - p021-distancia-entre-puntos.py
+- p022-resistencia-equivalente-paralelo.py
 
 ## Actividad 5
