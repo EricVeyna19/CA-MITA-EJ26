@@ -32,3 +32,10 @@ Eric Gaspar Veyna
 - p022-resistencia-equivalente-paralelo.py
 
 ## Actividad 5
+- p023-verificar-numero.py
+- p024-verificar-numero-v2.py
+- p025-verificar-suma.py
+- p026–convertir-temperaturas-v2.py
+- p027-calcular-paga-extra.py
+- p028-retira-cuenta.py
+- p029-calculadora-descuentos.py
