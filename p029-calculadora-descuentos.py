@@ -1,9 +1,9 @@
 # p029-calculadora-descuentos.py
 # Simula una calculadora de descuentos basada en el monto de la compra
 print('\033[H\033[J')  # imprime una secuencia ansi que borra la pantalla
-print('=' * 40)
+print('=' * 60)
 print('CALCULADORA DE DESCUENTOSOS\n')
-print('=' * 40)
+print('=' * 60)
 
 compra = float(input("Ingresa el total de tu compra: $"))
 # Definimos las variables para el descuento
