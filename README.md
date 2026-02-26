@@ -76,3 +76,5 @@ Eric Gaspar Veyna
 - p056-contador-vocales.py
 - p057-interes-simple.py
 
+## Actividad 9
+- p065-repaso-primer-parcial.py
