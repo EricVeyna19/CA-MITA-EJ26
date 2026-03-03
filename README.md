@@ -87,3 +87,6 @@ Eric Gaspar Veyna
 
 ## Actividad 9
 - p065-repaso-primer-parcial.py
+
+## Primer Examen Parcial
+- p066-Primer-Examen-Parcial.py
