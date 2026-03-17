@@ -124,3 +124,11 @@ Eric Gaspar Veyna
 - p090-eliminar-lista.py
 - p091-iterar-lista.py
 - p092-lista-de-gastos.py
+
+## Actividad 13
+- p093-procesar-calificaciones.py
+- p094-consolidar-ventas.py
+- p095-precio-acciones.py
+- p096-registro-estudiantes.py
+- p097-procesar-datos-sensores.py
+- p098-producto-punto.py
