@@ -155,6 +155,15 @@ Eric Gaspar Veyna
 - p113-reporte-ventas.py
 - p114-area-figuras.py
 
+## Tarea 6 
+- p115-crear-acceder-diccionario.py
+- p116-modificar-diccionario.py
+- p117-agregar-diccionario.py
+- p118-eliminar-diccionario.py
+- p119-procesar-diccionario.py
+- p120-contar-caracteres.py
+
 ## Actividad 16
 - p121-municipios.py
 - p122-operaciones-conjuntos.py
+
