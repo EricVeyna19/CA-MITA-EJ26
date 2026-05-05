@@ -1,0 +1,42 @@
+# p157-empleado2.py
+# Clase empleado con propiedades adicionales
+# Código de clase
+
+print('\033[H\033[J')
+
+class Empleado:
+    def __init__(self, nombre, edad, sexo, casado):
+        self.nombre = nombre
+        self.edad = edad
+        self.sexo = sexo
+        self.casado = casado
+
+    def __str__(self):
+        sexo_texto = "Mujer" if self.sexo == "M" else "Hombre"
+        casado_texto = "Casado" if self.casado else "No casado"
+
+        return f'Nombre: {self.nombre}, Edad: {self.edad}, Sexo: {sexo_texto}, Estado civil: {casado_texto}'
+
+
+# Función para imprimir los datos de un empleado
+def mostrar_empleado(empleado):
+    print('Nombre:', empleado.nombre)
+    print('Edad:', empleado.edad)
+    print('Sexo:', empleado.sexo)
+    print('Casado:', empleado.casado)
+    print(empleado)
+    print()
+
+
+# Programa principal
+emp1 = Empleado('Jose Diaz', 35, 'H', True)
+emp2 = Empleado('Rocio Espinoza', 15, 'M', False)
+emp3 = Empleado('Rebeca Soto', 22, 'M', True)
+
+mostrar_empleado(emp1)
+mostrar_empleado(emp2)
+mostrar_empleado(emp3)
+
+promedio_edad = (emp1.edad + emp2.edad + emp3.edad) / 3
+
+print(f'El promedio de la edad de los empleados es {promedio_edad:.2f}')
